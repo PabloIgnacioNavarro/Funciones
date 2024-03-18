@@ -1,0 +1,10 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.key {
+  width: 200px;
+  height: 200px;
+  color: white;
+  border: black;
+}
